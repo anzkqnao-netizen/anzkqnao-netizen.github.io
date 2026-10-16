@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dehanat-makkah.com/sitemap.xml
